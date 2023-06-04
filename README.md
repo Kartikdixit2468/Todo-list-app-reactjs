@@ -1,3 +1,8 @@
+#About This Project
+  This is a simple single page todo-list application created using ReactJS. If you clone this repo remember to run the following commad
+  ### `npm i`
+  this will install all required node-modules.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
