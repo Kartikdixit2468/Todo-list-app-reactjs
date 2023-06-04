@@ -1,4 +1,4 @@
-#About This Project
+# About This Project
   This is a simple single page todo-list application created using ReactJS. If you clone this repo remember to run the following commad
   ### `npm i`
   this will install all required node-modules.
